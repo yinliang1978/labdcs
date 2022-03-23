@@ -12,3 +12,6 @@ Now education user can obtain a year's use of labdcs.
 download：
 链接link：https://pan.baidu.com/s/1jAMnmrHmkOnxsA9TcEwyiw 
 提取码access code：ql0h 
+
+交流QQ群：1012390630
+
