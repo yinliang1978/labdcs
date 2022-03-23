@@ -10,5 +10,5 @@ Nowadays there are various solutions like this.  ..... But what is special for l
 Now education user can obtain a year's use of labdcs.
 
 download：
-链接：https://pan.baidu.com/s/1jAMnmrHmkOnxsA9TcEwyiw 
-提取码：ql0h 
+链接link：https://pan.baidu.com/s/1jAMnmrHmkOnxsA9TcEwyiw 
+提取码access code：ql0h 
