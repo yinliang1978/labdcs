@@ -8,3 +8,7 @@ Nowadays there are various solutions like this.  ..... But what is special for l
 6.  Modeling code is supported, can use abundant of modeling library for control,e,g blocks and state graph, and device libs for real time implementation. Then it can be easily used in fo control prototype construction and laboratory control system or eduction of control practice.
 7 history function is given using postgresql database.
 Now education user can obtain a year's use of labdcs.
+
+download：
+链接：https://pan.baidu.com/s/1jAMnmrHmkOnxsA9TcEwyiw 
+提取码：ql0h 
