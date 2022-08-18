@@ -9,9 +9,11 @@ Nowadays there are various solutions like this.  ..... But what is special for l
 7 history function is given using postgresql database.
 Now education user can obtain a year's use of labdcs.
 
-download：
-链接link：https://pan.baidu.com/s/1jAMnmrHmkOnxsA9TcEwyiw 
-提取码access code：ql0h 
+
+
+链接link：https://pan.baidu.com/s/14FEwNms9PRdhqdKp5bxA2w 
+提取码access code：41i0 
+
 
 交流QQ群：1012390630
 教学视频： https://v.youku.com/v_show/id_XNTg1ODExMzM5Ng==.html?spm=a2hcb.profile.app.5~5!2~5~5!3~5!2~5~5!7~A
