@@ -11,9 +11,8 @@ Now education user can obtain a year's use of labdcs.
 
 
 
-链接link：https://pan.baidu.com/s/14FEwNms9PRdhqdKp5bxA2w 
-提取码access code：41i0 
-
+链接：https://pan.baidu.com/s/1ZjEC7Y1MkEpW9q7lmtaRlw 
+提取码：8888 
 
 交流QQ群：1012390630
 教学视频： https://v.youku.com/v_show/id_XNTg1ODExMzM5Ng==.html?spm=a2hcb.profile.app.5~5!2~5~5!3~5!2~5~5!7~A
