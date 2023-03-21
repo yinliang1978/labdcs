@@ -15,5 +15,6 @@ Now education user can obtain a year's use of labdcs.
 提取码：8888 
 
 交流QQ群：1012390630
-教学视频： https://v.youku.com/v_show/id_XNTg1ODExMzM5Ng==.html?spm=a2hcb.profile.app.5~5!2~5~5!3~5!2~5~5!7~A
+教学视频： https://www.youku.com/profile/index/?spm=a2h0c.8166622.PhoneSokuUgc_1.1&uid=UNDM0MDYwNTk2NA==
+或 进入优酷，搜索和关注labdcs
 
