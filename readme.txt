@@ -18,3 +18,5 @@ Now education user can obtain a year's use of labdcs.
 教学视频： https://www.youku.com/profile/index/?spm=a2h0c.8166622.PhoneSokuUgc_1.1&uid=UNDM0MDYwNTk2NA==
 或 进入优酷，搜索和关注labdcs
 
+若使用labdcs软件发表论文，请引用该论文
+[1]殷亮,蒋军成.基于代理的分布式过程控制Labdcs平台的开发[J].实验室研究与探索,2023,42(03):53-58+97.
