@@ -10,7 +10,7 @@ Nowadays there are various solutions like this.  ..... But what is special for l
 Now education users can obtain free use of labdcs.
 
 
-
+软件下载地址：
 链接：https://pan.baidu.com/s/169hfxP07st2dO7AAlA8K7w?pwd=8888 
 提取码：8888 
 
